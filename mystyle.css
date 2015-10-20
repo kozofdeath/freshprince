@@ -1,0 +1,16 @@
+body {
+	background-color: blue;
+}
+
+/*Why can't I put classes in the h1?*/
+h1 {
+	color: red;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+p.mainText {
+	color: cyan;
+	font-style: italic;
+	font-family: "Courier New"; monospace;
+}
